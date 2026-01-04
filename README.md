@@ -7,8 +7,8 @@ The focus is on improving **time efficiency and pickup zone selection**, rather 
 ---
 
 ## Business Problem
-Many drivers assume that working in the busiest areas leads to higher earnings.  
-In reality, traffic congestion, short trips, and inefficient zones often reduce **earnings per hour**, even when demand is high.
+Increase taxi driver income **without increasing fares**, by improving how driving time and pickup locations are utilized.
+
 
 ---
 
